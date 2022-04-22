@@ -1,0 +1,70 @@
+body{
+  background-color: #FF6B6B;
+  font-family:'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: white;
+}
+h2
+{
+  text-align: center;
+  color: #3B14A7;
+  padding-bottom: 20px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 700;
+}
+h3{
+  padding-left: 200px;
+  padding-bottom: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+font-weight: 700;
+}
+img{
+  width: 30%;
+}
+.intro-div
+{
+ line-height: 2.5;
+ width: 70%;
+ padding:10%;
+ font-size: 2rem;
+ color: #F7FF93;
+}
+#Skillset{
+  background-color: #E4D1B9;
+  color: #FF4848;
+  font-size: 1.5rem;
+  padding-bottom: 5%;
+}
+.progress{
+  margin-bottom: 3%;
+  margin-left: 3%;
+}
+.skills{
+  width: 80%;
+}
+  /* Extracurriculars */
+  .extra-skills
+  {
+    display: flex;
+    justify-content: center;
+  }
+  .communicate{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 32%;
+    font-size: 2rem;
+    
+  }
+
+/* Education-section */
+.studies{
+  background-color: #E4D1B9;
+  margin-bottom: -20px;
+  padding-bottom:3%;
+  font-size: 1.7rem;
+  text-align: center;
+}
+.education{
+  color: #FF4848;
+}
